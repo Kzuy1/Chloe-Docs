@@ -68,9 +68,26 @@ Coloque os atributos indicados acima.
 
 LTScale está diferente da metade da Escala do Desenho.
 
-O LTScale deve ser metade da escala, por exemplo Escala - 1:100 LTScale - 50.
+Ocorre quando a configuração de LTScale (escala de tipo de linha) não está de acordo com a escala do desenho.
 
-Na Imagem 05 temos um exemplo aplicado do LT
+\[O que é LTScale é como ele funciona?]\()
 
-<figure><img src="../.gitbook/assets/img_autocad_ltscale_img01" alt=""><figcaption><p>Imagem 05</p></figcaption></figure>
+### Solução
 
+Ajustar o valor do LTScale para ser a metade da escala do desenho, conforme demonstrado na Imagem 05.
+
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img05" alt=""><figcaption><p>Imagem 05</p></figcaption></figure>
+
+***
+
+## Error ED07
+
+Layer CONTOUR EXI está presente no Desenho.
+
+Na versão R16, existia uma camada chamada `CONTOUR EXI` utilizada para indicar peças existentes. A partir da versão R19, essa camada foi substituída pela camada `ESISTENTE` (Existente em Italiano).
+
+### Solução 01
+
+Digite o comando `Eliminar/Purge`, existe uma aba chamada `Itens que não podem ser eliminados`. Dentro dessa aba, há uma árvore de nós onde podemos expandir `Camadas` para mostrar todas as camadas/layers presentes no desenho. Ao selecionar a camada `CONTOUR EXI`, serão exibidos todos os objetos associados a ela. Selecione esses objetos e mude para a camada `ESISTENTE`. Conforme demonstrado na Imagem 06.
+
+***
