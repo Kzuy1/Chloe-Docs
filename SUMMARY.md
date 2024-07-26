@@ -6,3 +6,5 @@
   * [🚨 Erros de Desenho](chloe/erros-de-desenho.md)
 * [📐AutoCAD](autocad/README.md)
   * [LTScale](autocad/ltscale.md)
+  * [Lisp](autocad/lisp/README.md)
+    * [AtualizaCodigoLegenda](autocad/lisp/atualizacodigolegenda.md)

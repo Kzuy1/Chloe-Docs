@@ -30,7 +30,7 @@ Na Imagem 02, o Bloco de Legenda apresenta um código diferente do que está no 
 
 ### Solução
 
-Utilize o Lisp `AtualizarCodigoLegenda` para atualizar os códigos do Bloco de Legenda.
+Utilize o Lisp [AtualizarCodigoLegenda](../autocad/lisp/atualizacodigolegenda.md) para atualizar os códigos do Bloco de Legenda.
 
 ***
 
@@ -70,7 +70,7 @@ LTScale está diferente da metade da Escala do Desenho.
 
 Ocorre quando a configuração de LTScale (escala de tipo de linha) não está de acordo com a escala do desenho.
 
-\[O que é LTScale é como ele funciona?]\()
+[O que é LTScale é como ele funciona?](../autocad/ltscale.md)
 
 ### Solução
 
@@ -89,5 +89,7 @@ Na versão R16, existia uma camada chamada `CONTOUR EXI` utilizada para indicar 
 ### Solução 01
 
 Digite o comando `Eliminar/Purge`, existe uma aba chamada `Itens que não podem ser eliminados`. Dentro dessa aba, há uma árvore de nós onde podemos expandir `Camadas` para mostrar todas as camadas/layers presentes no desenho. Ao selecionar a camada `CONTOUR EXI`, serão exibidos todos os objetos associados a ela. Selecione esses objetos e mude para a camada `ESISTENTE`. Conforme demonstrado na Imagem 06.
+
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img06" alt=""><figcaption><p>Imagem 06</p></figcaption></figure>
 
 ***
