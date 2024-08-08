@@ -63,3 +63,20 @@ Abaixo, você verá qual configuração de extração se aplica a qual bloco e o
 ## Passo 08
 
 Clique no botão **`Arquivo de saída`**, localizado à esquerda na parte central, como desmonstrado na Imagem 08.
+
+<figure><img src="../.gitbook/assets/img_autocad_como-extrair-atributos-de-blocos_img08.png" alt=""><figcaption><p>Imagem 08</p></figcaption></figure>
+
+## Passo 09
+
+Uma aba chamada "Arquivo de Saída" será aberta. Clique na opção "Área de Trabalho" para definir o local do arquivo de saída e, em seguida, clique em "Salvar", como desmonstrado na Imagem 09.
+
+Se você não definir um caminho de saída, o arquivo será salvo na mesma pasta onde o desenho está localizado
+
+<figure><img src="../.gitbook/assets/img_autocad_como-extrair-atributos-de-blocos_img09.png" alt=""><figcaption><p>Imagem 09</p></figcaption></figure>
+
+## Passo 10
+
+Clique no botão **Ok**, localizado na parte inferior central, como desmonstrado na Imagem 10.
+
+<figure><img src="../.gitbook/assets/img_autocad_como-extrair-atributos-de-blocos_img10.png" alt=""><figcaption><p>Imagem 10</p></figcaption></figure>
+
