@@ -82,19 +82,19 @@ Ajustar o valor do LTScale para ser a metade da escala do desenho, conforme demo
 
 ## Error ED07
 
-Layer **`CONTOUR EXI`** está presente no Desenho.
+Layer **"CONTOUR EXI"** está presente no Desenho.
 
-Na versão R16, existia uma camada chamada **`CONTOUR EXI`** utilizada para indicar peças existentes. A partir da versão R19, essa camada foi substituída pela camada **`ESISTENTE`** (Existente em Italiano).
+Na versão R16, existia uma camada chamada **"CONTOUR EXI"** utilizada para indicar peças existentes. A partir da versão R19, essa camada foi substituída pela camada **"ESISTENTE"** (Existente em Italiano).
 
 ### Solução 01
 
-Digite o comando **`Eliminar / Purge`**, existe uma aba chamada **`Itens que não podem ser eliminados`**. Dentro dessa aba, há uma árvore de nós onde podemos expandir o nó  de **`Camadas`** para mostrar todas as camadas / layers presentes no desenho. Ao selecionar a camada **`CONTOUR EXI`**, serão exibidos todos os objetos associados a ela. Selecione esses objetos e mude para a camada **`ESISTENTE`**. Conforme demonstrado na Imagem 06.
+Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**. Dentro dessa aba, há uma árvore de nós onde podemos expandir o nó  de **"Camadas"** para mostrar todas as camadas presentes no desenho. Ao selecionar a camada **"CONTOUR EXI"**, serão exibidos todos os objetos associados a ela. Selecione esses objetos e mude para a camada **"ESISTENTE"**. Conforme demonstrado na Imagem 06.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img06" alt=""><figcaption><p>Imagem 06</p></figcaption></figure>
 
 ### Solução 02
 
-Seguindo a [solução anterior](erros-de-desenho.md#solucao-01), caso você tenha algum objeto em **`CONTOUR EXI`** dentro de um bloco, você pode copiar o nome do arquivo e ao digitar o comando **`INSERIR / INSERT`** abrirá uma janela mostrando todos os blocos. Selecione a aba **`Desenho Atual`** e cole o nome do bloco no campo de pesquisa que foi copiado anteriormente. Ao selecionar o bloco, é possível adicioná-lo ao desenho e ajustar o bloco para remover a layer **`CONTOUR EXI`**, conforme mostrado na Imagem 07.
+Seguindo a [solução anterior](erros-de-desenho.md#solucao-01), caso você tenha algum objeto em **"CONTOUR EXI"** dentro de um bloco, você pode copiar o nome do arquivo e ao digitar o comando **"INSERIR"** abrirá uma janela mostrando todos os blocos. Selecione a aba **"Desenho Atual"** e cole o nome do bloco no campo de pesquisa que foi copiado anteriormente. Ao selecionar o bloco, é possível adicioná-lo ao desenho e ajustar o bloco para remover a layer **"CONTOUR EXI"**, conforme mostrado na Imagem 07.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img07" alt=""><figcaption><p>Imagem 07</p></figcaption></figure>
 
@@ -104,11 +104,11 @@ Seguindo a [solução anterior](erros-de-desenho.md#solucao-01), caso você tenh
 
 Linha de Chamada não está na camada QUOTE.
 
-A Linha de Chamada diferente das Cotas porque, ao contrário destas, não é automaticamente direcionada para a camada **`QUOTE`**. Em vez disso, ela é alocada na camada selecionada da Paleta de Camadas, que por padrão é a **`Camada 0`**, mas pode também ser a camada **`ASSI`** ou outras. Portanto, é necessário realizar a troca para garantir que a Linha de Chamada esteja na cama **`QUOTE`**.&#x20;
+A Linha de Chamada diferente das Cotas porque, ao contrário destas, não é automaticamente direcionada para a camada **"QUOTE"**. Em vez disso, ela é alocada na camada selecionada da Paleta de Camadas, que por padrão é a **"Camada 0"**, mas pode também ser a camada **"ASSI"** ou outras. Portanto, é necessário realizar a troca para garantir que a Linha de Chamada esteja na cama **"QUOTE"**.&#x20;
 
 ### Solução
 
-Digite o comando **`Eliminar / Purge`**, existe uma aba chamada **`Itens que não podem ser eliminados`**. Dentro dessa aba, há uma árvore de nós onde podemos expandir o nó  de **`Estilos de cota`** para mostrar todas os estilo de cota presentes no desenho. Ao selecionar a camada qualquer estilo, serão exibidos todos os objetos associados a ela. Selecione as Linhas de Chamadas que estão fora da camada **`QUOTE`**.  Conforme demonstrado na Imagem 08.
+Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**. Dentro dessa aba, há uma árvore de nós onde podemos expandir o nó  de **"Estilos de cota"** para mostrar todas os estilo de cota presentes no desenho. Ao selecionar a camada qualquer estilo, serão exibidos todos os objetos associados a ela. Selecione as Linhas de Chamadas que estão fora da camada **"QUOTE"**.  Conforme demonstrado na Imagem 08.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img08" alt=""><figcaption><p>Imagem 08</p></figcaption></figure>
 
@@ -132,7 +132,7 @@ Dividir o desenho em dois arquivos dwg.
 
 Bloco de Revisão 0 está com a Data diferente da Data de Emissão no Bloco de Legenda.
 
-O Bloco de Revisão 0 ou Bloco de Revisão escrito **`FIRST ISSUE / PRIMEIRA EMISSÃO`** deve ter a mesma Data de Emissão que o Bloco de Legenda como indicado na Imagem 10.
+O Bloco de Revisão 0 ou Bloco de Revisão escrito **"FIRST ISSUE / PRIMEIRA EMISSÃO"** deve ter a mesma Data de Emissão que o Bloco de Legenda como indicado na Imagem 10.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img10" alt=""><figcaption><p>Imagem 10</p></figcaption></figure>
 
@@ -174,7 +174,7 @@ Preencher o Bloco de Revisão.
 
 Bloco de Legenda não está com data correta.
 
-Ao digitar o comando **`/verificar`**, é possível especificar uma data para verificar o desenho, conforme demonstrado na Imagem 13. Caso nenhuma data seja fornecida, a Chloe utilizará a data de hoje para realizar a verificação.
+Ao digitar o comando **"/verificar"**, é possível especificar uma data para verificar o desenho, conforme demonstrado na Imagem 13. Caso nenhuma data seja fornecida, a Chloe utilizará a data de hoje para realizar a verificação.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img13" alt=""><figcaption><p>Imagem 13</p></figcaption></figure>
 
@@ -208,11 +208,81 @@ O Padrão utilizado para separar número decimais é ponto. A Redecam usa as ví
 
 ### Solução
 
-Digite o comando **`LOCALIZAR / FIND`**. No campo de texto **`Localizar o quê`**, digite **`","`** (Somente vírgula sem Aspas). No campo de texto **`Substituir por`**, digite **`"."`** (Somente vírgula sem Aspas). Em seguida, clique no botão **`Substituir Tudo`**, conforme demonstrado na Imagem 16. Com isso, todas as vírgulas serão substituídas por pontos.
+Digite o comando **"LOCALIZAR / FIND"**. No campo de texto **"Localizar o quê"**, digite **","** (Somente vírgula sem Aspas). No campo de texto **"Substituir por"**, digite **"."** (Somente vírgula sem Aspas). Em seguida, clique no botão **"Substituir Tudo"**, conforme demonstrado na Imagem 16. Com isso, todas as vírgulas serão substituídas por pontos.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img16.png" alt=""><figcaption><p>Imagem 16</p></figcaption></figure>
 
 ***
+
+## Error ED16
+
+Blocos de Peça com pesos não batendo a multiplicação.
+
+A quantidade multiplicada pelo peso unitário deve resultar no peso total. Por exemplo, na Imagem 17, a quantidade é 71 e o peso unitário é de 10,0 kg. Portanto, o peso total deveria ser 710,0 kg, mas consta apenas 71,0 kg.
+
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img17.png" alt=""><figcaption><p>Imagem 17</p></figcaption></figure>
+
+### Solução
+
+[Como extrair atributos de blocos para verificação?](../autocad/como-extrair-atributos-de-blocos.md)
+
+***
+
+## Error  ED17
+
+Blocos de Peca com vírgula na descrição.
+
+O Padrão utilizado para separar número decimais é ponto. A Redecam usa as vírgulas como separadores de atributos, indicando o início e o fim de um atributo. Podendo ser visto na Imagem 18.
+
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img18.jpg" alt=""><figcaption><p>Imagem 18</p></figcaption></figure>
+
+### Solução
+
+Digite o comando **"LOCALIZAR / FIND"**. No campo de texto **"Localizar o quê"**, digite **","** (Somente vírgula sem Aspas). No campo de texto **"Substituir por"**, digite **"."** (Somente vírgula sem Aspas). Em seguida, clique no botão **"Substituir Tudo"**, conforme demonstrado na Imagem 19. Com isso, todas as vírgulas serão substituídas por pontos.
+
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img19.jpg" alt=""><figcaption><p>Imagem 19</p></figcaption></figure>
+
+***
+
+## Error ED18
+
+Nota com Código de Identificação das peças diferente do Código do Desenho.
+
+Nota com Código de Identificação das peças deve ter o mesmo Código do Desenho seguindo a divisão do AA-SS-DD, como mostrado na Imagem 20.
+
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img20.jpg" alt=""><figcaption><p>Imagem 20.</p></figcaption></figure>
+
+### Solução
+
+Utilizar o código Lisp [AtualizaCodigoLegenda](../autocad/lisp/atualizacodigolegenda.md) para arrumar Codigo de Identificação
+
+***
+
+## Error ED019
+
+Fator de Largura do atributo Marca no Bloco de Peça diferente de 0.7.
+
+Utilizar um fator de largura de 0.7 no atributo de Marca no Bloco de Peça, de modo que ao copiar o bloco para um desenho de conjunto, o atributo receba o código de desenho ajustem adequadamente ao espaço.
+
+### Solução
+
+Utilizar o comando **"GERATRIB / BATTMAN"**  para poder atualizar o atributo do Bloco.
+
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img21.jpg" alt=""><figcaption><p>Imagem 21.</p></figcaption></figure>
+
+***
+
+## Error ED20
+
+Nota com Peso Aproximado está diferente da Soma dos Blocos de Peça.
+
+A soma dos blocos de peças deve coincidir com o peso total aproximado na nota. Se houver **"APENAS AÇO / ONLY STEELWORK"**, esse valor deve excluir o peso da "**LÃ DE ROCHA / ROCK WOOL"** e considerar esse peso na nota **"INCLUINDO LÃ DE ROCHA | INCLUDING ROCK WOOL"**, como demostrado na Imagem 22.
+
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img22.jpg" alt=""><figcaption><p>Imagem 22.</p></figcaption></figure>
+
+### Solução
+
+[Como extrair atributos dos blocos para verificar a soma?](../autocad/como-extrair-atributos-de-blocos.md)
 
 ***
 
@@ -239,6 +309,6 @@ Este erro apresenta uma lista de blocos que estão presentes no desenho, porém,
 
 ### Solução
 
-Na comando `Eliminar / Purge`, existe uma aba chamada `Itens que não podem ser eliminados`.  Dentro dessa aba, há uma árvore de nós onde podemos expandir nó de `Blocos` para mostrar todas as blocos presentes no desenho, facilitando a substituição dos mesmos. Conforme demonstrado na Imagem XX1.
+Na comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**.  Dentro dessa aba, há uma árvore de nós onde podemos expandir nó de **"Blocos"** para mostrar todas as blocos presentes no desenho, facilitando a substituição dos mesmos. Conforme demonstrado na Imagem XX1.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_imgXX1" alt=""><figcaption><p>Imagem XX1</p></figcaption></figure>
