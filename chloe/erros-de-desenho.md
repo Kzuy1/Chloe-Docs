@@ -4,7 +4,7 @@ description: Todos os Erros que a Chloe pode encontrar!
 
 # 🚨 Erros de Desenho
 
-Error ED01
+## Error ED01
 
 O nome arquivo não está separado corretamente.
 
@@ -258,7 +258,7 @@ Utilizar o código Lisp [AtualizaCodigoLegenda](../autocad/lisp/atualizacodigole
 
 ***
 
-## Error ED019
+## Error ED19
 
 Fator de Largura do atributo Marca no Bloco de Peça diferente de 0.7.
 
