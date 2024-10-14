@@ -286,16 +286,56 @@ A soma dos blocos de peças deve coincidir com o peso total aproximado na nota. 
 
 ***
 
-## Error EDSB
+## Error ED21
 
-Lista de Blocos na escala errada (**EM DESENVOLVIMENTO**)\
-(**EM DESENVOLVIMENTO**)
+Cota com linha fora do Por Camada.
 
-<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_imgXX2" alt=""><figcaption><p>Imagem XXX2</p></figcaption></figure>
+Ao criar cotas escalonadas, é uma prática comum modificar as cores das linhas para diferentes como Azul, Ciano, Roxo invés de PorCamada, proporcionando uma diferenciação visual entre os estilos de cota utilizados. No entanto, é importante que ao entregar o desenho, as cores das linhas devem ser revertidas ao padrão de PorCamada.
 
 ### Solução
 
-(**EM DESENVOLVIMENTO**)
+Abrir o "**Modificador de Cota"** e na aba "**Linhas"** colocar em "**Cor"** para "**PorCamada",** como demostrado na Imagem 23.
+
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img23.png" alt=""><figcaption><p>Imagem 23</p></figcaption></figure>
+
+***
+
+## Error 22
+
+Cota com escala global incorreta.
+
+Todas as cota do formato devem ficar na mesma Escala do Formato.
+
+### Solução
+
+Abrir o "**Modificador de Cota"** e na aba "**Ajustar"** colocar em "**Usar escala global de:"**  para a Escala do Formato, como desmotrado na Imagem 24
+
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img24.png" alt=""><figcaption><p>Imagem 24</p></figcaption></figure>
+
+***
+
+## Error 23
+
+Fator de Escala ou Nome da cota incorreta.
+
+Fator de Escala é determinado pela Equação: Escala da Cota / Escala do Formato.
+
+Exemplo: \
+Escala do Formato - 1:20.\
+Escala da Cota - 1:5.
+
+Escala da Cota / Escala do Formato.\
+5 / 20 = 0,4.
+
+### Solução 01
+
+Abrir o "**Modificador de Cota"** e na aba "**Unidades Primárias"** colocar em "**Fator de Escala:"** para Escala da Cota / Escala do Formato, como demostrado na Imagem 25.
+
+### Solução 02
+
+Caso o Fator de Escala estiver correto, verificar se o nome da cota está correto.
+
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img25.png" alt=""><figcaption><p>Imagem 25</p></figcaption></figure>
 
 ***
 
@@ -305,10 +345,17 @@ Lista com Blocos que estão no desenho só que numa versão antiga.
 
 Este erro apresenta uma lista de blocos que estão presentes no desenho, porém, em uma versão antiga podendo ser R16 ou R18. O erro será exibido com o nome do bloco e uma descrição referente ao Bloco, como mostrado na Imagem XX.
 
-<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_imgXX" alt=""><figcaption><p>Imagem XX</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img26" alt=""><figcaption><p>Imagem 26</p></figcaption></figure>
 
 ### Solução
 
 Na comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**.  Dentro dessa aba, há uma árvore de nós onde podemos expandir nó de **"Blocos"** para mostrar todas as blocos presentes no desenho, facilitando a substituição dos mesmos. Conforme demonstrado na Imagem XX1.
 
-<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_imgXX1" alt=""><figcaption><p>Imagem XX1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img27" alt=""><figcaption><p>Imagem 27</p></figcaption></figure>
+
+***
+
+## Error EDSB
+
+Lista de Blocos na escala errada\
+(**EM DESENVOLVIMENTO**)
