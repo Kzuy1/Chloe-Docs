@@ -10,3 +10,6 @@
   * [LTScale](autocad/ltscale.md)
   * [Lisp](autocad/lisp/README.md)
     * [AtualizaCodigoLegenda](autocad/lisp/atualizacodigolegenda.md)
+* [🛠️ Inventor](inventor/README.md)
+  * [ILogic](inventor/ilogic/README.md)
+    * [ArrumaNumeroEUnidadeDaPeca](inventor/ilogic/arrumanumeroeunidadedapeca.md)
