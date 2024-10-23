@@ -200,7 +200,7 @@ Seguir o tutorial para [Configurar Layers corretamente](../autocad/configurando-
 
 ## Error ED15
 
-Pesos no Blocos de Peça com vírgula.
+Peso no Bloco de Peça com vírgula.
 
 O Padrão utilizado para separar número decimais é ponto. A Redecam usa as vírgulas como separadores de atributos, indicando o início e o fim de um atributo. Podendo ser visto na Imagem 15.
 
@@ -216,7 +216,7 @@ Digite o comando **"LOCALIZAR / FIND"**. No campo de texto **"Localizar o quê"*
 
 ## Error ED16
 
-Blocos de Peça com pesos não batendo a multiplicação.
+Bloco de Peça com pesos não batendo a multiplicação.
 
 A quantidade multiplicada pelo peso unitário deve resultar no peso total. Por exemplo, na Imagem 17, a quantidade é 71 e o peso unitário é de 10,0 kg. Portanto, o peso total deveria ser 710,0 kg, mas consta apenas 71,0 kg.
 
@@ -230,7 +230,7 @@ A quantidade multiplicada pelo peso unitário deve resultar no peso total. Por e
 
 ## Error  ED17
 
-Blocos de Peca com vírgula na descrição.
+Bloco de Peca com vírgula na descrição.
 
 O Padrão utilizado para separar número decimais é ponto. A Redecam usa as vírgulas como separadores de atributos, indicando o início e o fim de um atributo. Podendo ser visto na Imagem 18.
 
@@ -260,7 +260,7 @@ Utilizar o código Lisp [AtualizaCodigoLegenda](../autocad/lisp/atualizacodigole
 
 ## Error ED19
 
-Fator de Largura do atributo Marca no Bloco de Peça diferente de 0.7.
+Fator de Largura do atributo Marca no Bloco de Peça diferente de 0,7.
 
 Utilizar um fator de largura de 0.7 no atributo de Marca no Bloco de Peça, de modo que ao copiar o bloco para um desenho de conjunto, o atributo receba o código de desenho ajustem adequadamente ao espaço.
 
