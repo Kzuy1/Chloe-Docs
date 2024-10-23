@@ -82,7 +82,7 @@ Ajustar o valor do LTScale para ser a metade da escala do desenho, conforme demo
 
 ## Error ED07
 
-Layer **"CONTOUR EXI"** está presente no Desenho.
+Camada **"CONTOUR EXI"** está presente no Desenho.
 
 Na versão R16, existia uma camada chamada **"CONTOUR EXI"** utilizada para indicar peças existentes. A partir da versão R19, essa camada foi substituída pela camada **"ESISTENTE"** (Existente em Italiano).
 
