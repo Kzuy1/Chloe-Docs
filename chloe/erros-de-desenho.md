@@ -46,7 +46,7 @@ Ajuste a escala para a escala indicada nos atributos de escala do Bloco.
 
 ***
 
-## Error 04
+## Error ED04
 
 Bloco de Legenda está com DRAW, CHECKED ou APPROVED errado.
 
@@ -300,7 +300,7 @@ Abrir o "**Modificador de Cota"** e na aba "**Linhas"** colocar em "**Cor"** par
 
 ***
 
-## Error 22
+## Error ED22
 
 Cota com escala global incorreta.
 
@@ -314,7 +314,7 @@ Abrir o "**Modificador de Cota"** e na aba "**Ajustar"** colocar em "**Usar esca
 
 ***
 
-## Error 23
+## ErrorED 23
 
 Fator de Escala ou Nome da cota incorreta.
 
