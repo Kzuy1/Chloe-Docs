@@ -112,7 +112,7 @@ O peso da peça é calculado multiplicando o peso unitário do subcomponente pel
 
 ### Solução
 
-Existe diversãs solucções para esse erro, como células em branco, indicadas pelo [#error-ch04](erros-lista-de-material.md#error-ch04 "mention"), o peso estar em libras, resultando no erro [#error-ch05](erros-lista-de-material.md#error-ch05 "mention") ou em alguns casos, pode surgir o [#error-ch07](erros-lista-de-material.md#error-ch07 "mention") que surge modificações feitas na planilha para adaptar que não corrigidas.
+Existe diferentes soluções para esse erro, como células em branco, indicadas pelo [#error-ch04](erros-lista-de-material.md#error-ch04 "mention"), o peso estar em libras, resultando no erro [#error-ch05](erros-lista-de-material.md#error-ch05 "mention") ou em alguns casos, pode surgir o [#error-ch07](erros-lista-de-material.md#error-ch07 "mention") que surge modificações feitas na planilha para adaptar que não corrigidas.
 
 ***
 
@@ -181,6 +181,8 @@ Se houver uma discrepância muito grande, é necessário revisar a lista para id
 ***
 
 ## Error CH14
+
+Não foi possível calcular a quantidade do material.
 
 Este erro ocorre quando a Chloe tenta calcular a quantidade a partir do Peso correspondente, mas não consegue devido à ausência de alguma informação, a celula será pintada azul e escrito NULL, como demostrado na Imagem 13.
 
