@@ -22,7 +22,7 @@ Renomeie o arquivo seguindo a segmentação correta.
 
 Bloco de Legenda está com código errado.
 
-Na Imagem 02, o Bloco de Legenda apresenta um código diferente do que está no Nome do Arquivo. Os códigos mostrados são 1FN2\_FN-A8-01, mas o correto é 1FN3\_FN-A8-01.
+Na Imagem 02, o Bloco de Legenda apresenta um código diferente do que está no Nome do Arquivo. Os códigos mostrados são 1FN2\_FN-08-01, mas o correto é 1FN3\_FN-A7-01.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img04" alt=""><figcaption><p>Imagem 02</p></figcaption></figure>
 
