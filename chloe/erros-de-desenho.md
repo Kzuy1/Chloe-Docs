@@ -94,7 +94,7 @@ Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que nã
 
 ### Solução 02
 
-Seguindo a [solução anterior](erros-de-desenho.md#solucao-01), caso você tenha algum objeto em **"CONTOUR EXI"** dentro de um bloco, você pode copiar o nome do arquivo e ao digitar o comando **"INSERIR"** abrirá uma janela mostrando todos os blocos. Selecione a aba **"Desenho Atual"** e cole o nome do bloco no campo de pesquisa que foi copiado anteriormente. Ao selecionar o bloco, é possível adicioná-lo ao desenho e ajustar o bloco para remover a layer **"CONTOUR EXI"**, conforme mostrado na Imagem 07.
+Seguindo a [solução anterior](erros-de-desenho.md#solucao-01), caso você tenha algum objeto em **"CONTOUR EXI"** dentro de um bloco, você pode copiar o nome do bloco e ao digitar o comando **"INSERIR"** abrirá uma janela mostrando todos os blocos. Selecione a aba **"Desenho Atual"** e cole o nome do bloco no campo de pesquisa que foi copiado anteriormente. Ao selecionar o bloco, é possível adicioná-lo ao desenho e ajustar o bloco para remover a layer **"CONTOUR EXI"**, conforme mostrado na Imagem 07.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img07" alt=""><figcaption><p>Imagem 07</p></figcaption></figure>
 
