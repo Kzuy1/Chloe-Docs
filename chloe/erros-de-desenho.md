@@ -202,13 +202,13 @@ Seguir o tutorial para [Configurar Layers corretamente](../autocad/configurando-
 
 Peso no Bloco de Peça com vírgula.
 
-O Padrão utilizado para separar número decimais é ponto. A Redecam usa as vírgulas como separadores de atributos, indicando o início e o fim de um atributo. Podendo ser visto na Imagem 15.
+O Padrão utilizado para separar número decimais é ponto. O AutoCAD usa as vírgulas como separadores de atributos, indicando o início e o fim de um atributo. Podendo ser visto na Imagem 15.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img15.png" alt=""><figcaption><p>Imagem 15</p></figcaption></figure>
 
 ### Solução
 
-Digite o comando **"LOCALIZAR / FIND"**. No campo de texto **"Localizar o quê"**, digite **","** (Somente vírgula sem Aspas). No campo de texto **"Substituir por"**, digite **"."** (Somente vírgula sem Aspas). Em seguida, clique no botão **"Substituir Tudo"**, conforme demonstrado na Imagem 16. Com isso, todas as vírgulas serão substituídas por pontos.
+Digite o comando **"LOCALIZAR / FIND"**. No campo de texto **"Localizar o quê"**, digite **","** (Somente vírgula sem Aspas). No campo de texto **"Substituir por"**, digite **"."** (Somente ponto sem Aspas). Em seguida, clique no botão **"Substituir Tudo"**, conforme demonstrado na Imagem 16. Com isso, todas as vírgulas serão substituídas por pontos.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img16.png" alt=""><figcaption><p>Imagem 16</p></figcaption></figure>
 
