@@ -349,7 +349,7 @@ Este erro apresenta uma lista de blocos que estão presentes no desenho, porém,
 
 ### Solução
 
-Na comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**.  Dentro dessa aba, há uma árvore de nós onde podemos expandir nó de **"Blocos"** para mostrar todas as blocos presentes no desenho, facilitando a substituição dos mesmos. Conforme demonstrado na Imagem XX1.
+Na comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**.  Dentro dessa aba, há uma árvore de nós onde podemos expandir nó de **"Blocos"** para mostrar todas as blocos presentes no desenho, facilitando a substituição dos mesmos. Conforme demonstrado na Imagem 27.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img27" alt=""><figcaption><p>Imagem 27</p></figcaption></figure>
 
