@@ -266,7 +266,7 @@ Utilizar um fator de largura de 0.7 no atributo de Marca no Bloco de Peça, de m
 
 ### Solução
 
-Utilizar o comando **"GERATRIB / BATTMAN"**  para poder atualizar o atributo do Bloco.
+Utilizar o comando **"GERATRIB / BATTMAN"**  para poder atualizar o atributo do Bloco, como mostrado na Imagem 21.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img21.jpg" alt=""><figcaption><p>Imagem 21.</p></figcaption></figure>
 
