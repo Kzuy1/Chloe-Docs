@@ -304,7 +304,7 @@ Abrir o "**Modificador de Cota"** e na aba "**Linhas"** colocar em "**Cor"** par
 
 Cota com escala global incorreta.
 
-Todas as cota do formato devem ficar na mesma Escala do Formato.
+Todas as cota do desenho devem ficar na mesma Escala do Formato.
 
 ### Solução
 
@@ -343,7 +343,7 @@ Caso o Fator de Escala estiver correto, verificar se o nome da cota está corret
 
 Lista com Blocos que estão no desenho só que numa versão antiga.
 
-Este erro apresenta uma lista de blocos que estão presentes no desenho, porém, em uma versão antiga podendo ser R16 ou R18. O erro será exibido com o nome do bloco e uma descrição referente ao Bloco, como mostrado na Imagem XX.
+Este erro apresenta uma lista de blocos que estão presentes no desenho, porém, em uma versão antiga podendo ser R16 ou R18. O erro será exibido com o nome do bloco e uma descrição referente ao Bloco, como mostrado na Imagem 26.
 
 <figure><img src="../.gitbook/assets/img_chloe_erros-de-desenho_img26" alt=""><figcaption><p>Imagem 26</p></figcaption></figure>
 
