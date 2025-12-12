@@ -11,7 +11,7 @@ O nome arquivo não está separado corretamente.
 Os códigos de desenho são separados  por traços (-) e sublinhados (_), conforme demonstrado na Imagem 01.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img01.png" alt="Imagem 01" />
+    <img src="/img/chloe/erros-de-desenho/img01.webp" alt="Imagem 01" />
     <figcaption>Imagem 01</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Bloco de Legenda está com código errado.
 Na Imagem 02, o Bloco de Legenda apresenta um código diferente do que está no Nome do Arquivo. Os códigos mostrados são 1FN2_FN-08-01, mas o correto é 1FN3_FN-A7-01.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img02.png" alt="Imagem 02" />
+    <img src="/img/chloe/erros-de-desenho/img02.webp" alt="Imagem 02" />
     <figcaption>Imagem 02</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Bloco de Legenda está com escala errado.
 O Bloco de Legenda apresenta uma discrepância entre a escala exibida e a escala do atributo do bloco, conforme demonstrado na Imagem 03.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img03.png" alt="Imagem 03" />
+    <img src="/img/chloe/erros-de-desenho/img03.webp" alt="Imagem 03" />
     <figcaption>Imagem 03</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ O Bloco de Legenda geralmente fica com :
 > **APPROVED:** Sem nada ou em Branco
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img04.png" alt="Imagem 04" />
+    <img src="/img/chloe/erros-de-desenho/img04.webp" alt="Imagem 04" />
     <figcaption>Imagem 04</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Ocorre quando a configuração de LTScale (escala de tipo de linha) não está d
 Ajustar o valor do LTScale para ser a metade da escala do desenho, conforme demonstrado na Imagem 05.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img05.png" alt="Imagem 05" />
+    <img src="/img/chloe/erros-de-desenho/img05.webp" alt="Imagem 05" />
     <figcaption>Imagem 05</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Na versão R16, existia uma camada chamada **"CONTOUR EXI"** utilizada para indi
 Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**. Dentro dessa aba, há uma árvore de nós onde podemos expandir o nó  de **"Camadas"** para mostrar todas as camadas presentes no desenho. Ao selecionar a camada **"CONTOUR EXI"**, serão exibidos todos os objetos associados a ela. Selecione esses objetos e mude para a camada **"ESISTENTE"**. Conforme demonstrado na Imagem 06.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img06.png" alt="Imagem 06" />
+    <img src="/img/chloe/erros-de-desenho/img06.webp" alt="Imagem 06" />
     <figcaption>Imagem 06</figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que nã
 Seguindo a <a href="#solução-01">solução anterior</a>, caso você tenha algum objeto em **"CONTOUR EXI"** dentro de um bloco, você pode copiar o nome do bloco e ao digitar o comando **"INSERIR"** abrirá uma janela mostrando todos os blocos. Selecione a aba **"Desenho Atual"** e cole o nome do bloco no campo de pesquisa que foi copiado anteriormente. Ao selecionar o bloco, é possível adicioná-lo ao desenho e ajustar o bloco para remover a layer **"CONTOUR EXI"**, conforme mostrado na Imagem 07.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img07.png" alt="Imagem 07" />
+    <img src="/img/chloe/erros-de-desenho/img07.webp" alt="Imagem 07" />
     <figcaption>Imagem 07</figcaption>
 </figure>
 
@@ -118,7 +118,7 @@ A Linha de Chamada diferente das Cotas porque, ao contrário destas, não é aut
 Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**. Dentro dessa aba, há uma árvore de nós onde podemos expandir o nó  de **"Estilos de cota"** para mostrar todas os estilo de cota presentes no desenho. Ao selecionar a camada qualquer estilo, serão exibidos todos os objetos associados a ela. Selecione as Linhas de Chamadas que estão fora da camada **"QUOTE"**.  Conforme demonstrado na Imagem 08.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img08.png" alt="Imagem 08" />
+    <img src="/img/chloe/erros-de-desenho/img08.webp" alt="Imagem 08" />
     <figcaption>Imagem 08</figcaption>
 </figure>
 
@@ -130,7 +130,7 @@ Deve ter apenas um Bloco de Legenda no mesmo desenho.
 Não enviar desenhos como indicado na Imagem 09, a Chloe utiliza os Blocos de Legenda para determinar certas informações para realizar outras verificações.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img09.png" alt="Imagem 09" />
+    <img src="/img/chloe/erros-de-desenho/img09.webp" alt="Imagem 09" />
     <figcaption>Imagem 09</figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ Bloco de Revisão 0 está com a Data diferente da Data de Emissão no Bloco de L
 O Bloco de Revisão 0 ou Bloco de Revisão escrito **"FIRST ISSUE / PRIMEIRA EMISSÃO"** deve ter a mesma Data de Emissão que o Bloco de Legenda como indicado na Imagem 10.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img10.png" alt="Imagem 10" />
+    <img src="/img/chloe/erros-de-desenho/img10.webp" alt="Imagem 10" />
     <figcaption>Imagem 10</figcaption>
 </figure>
 
@@ -160,7 +160,7 @@ Bloco de Revisão atual está diferente da Data de Revisão no Bloco de Legenda.
 O Bloco de Revisão atual deve corresponder à Data de Revisão do Bloco de Legenda. Por exemplo, se o desenho está na revisão 1, o Bloco de Revisão deve exibir a data correspondente a essa revisão, e o Bloco de Legenda deve refletir a mesma Data de Revisão, conforme indicado na Imagem 11.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img11.png" alt="Imagem 11" />
+    <img src="/img/chloe/erros-de-desenho/img11.webp" alt="Imagem 11" />
     <figcaption>Imagem 11</figcaption>
 </figure>
 
@@ -175,7 +175,7 @@ Bloco de Revisão atual não preenchido.
 O Bloco de Revisão deve estar preenchido com informações de data, descrição, desenhista e verificador. Por exemplo, conforme mostrado na Imagem 12, o Bloco de Revisão 2 está vazio, apesar de o desenho estar na Revisão 02.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img12.png" alt="Imagem 12" />
+    <img src="/img/chloe/erros-de-desenho/img12.webp" alt="Imagem 12" />
     <figcaption>Imagem 12</figcaption>
 </figure>
 
@@ -190,7 +190,7 @@ Bloco de Legenda não está com data correta.
 Ao digitar o comando **"/verificar"**, é possível especificar uma data para verificar o desenho, conforme demonstrado na Imagem 13. Caso nenhuma data seja fornecida, a Chloe utilizará a data de hoje para realizar a verificação.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img13.png" alt="Imagem 13" />
+    <img src="/img/chloe/erros-de-desenho/img13.webp" alt="Imagem 13" />
     <figcaption>Imagem 13</figcaption>
 </figure>
 
@@ -205,7 +205,7 @@ As camadas do desenho não estão configuradas corretamente.
 Ao copiar peças extraídas do Inventor para o AutoCAD, se o desenho não possuir certas camadas, o AutoCAD utilizará as configurações provenientes do arquivo extraído do Inventor. É importante notar que as configurações do Inventor diferem, pois ele usa o esquema de cores RGB em vez do esquema de cores indexadas do AutoCAD. Isso faz com que, ao imprimir o desenho em monocromático, o AutoCAD não consiga converter essas cores RGB para tons de preto. Como demonstrado na Imagem 14, um equipamento com camadas não alteradas fica colorido, enquanto as cotas, devidamente ajustadas, aparecem em um tom de preto.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img14.png" alt="Imagem 14" />
+    <img src="/img/chloe/erros-de-desenho/img14.webp" alt="Imagem 14" />
     <figcaption>Imagem 14</figcaption>
 </figure>
 
@@ -220,7 +220,7 @@ Peso no Bloco de Peça com vírgula.
 O Padrão utilizado para separar número decimais é ponto. O AutoCAD usa as vírgulas como separadores de atributos, indicando o início e o fim de um atributo. Podendo ser visto na Imagem 15.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img15.png" alt="Imagem 15" />
+    <img src="/img/chloe/erros-de-desenho/img15.webp" alt="Imagem 15" />
     <figcaption>Imagem 15</figcaption>
 </figure>
 
@@ -228,7 +228,7 @@ O Padrão utilizado para separar número decimais é ponto. O AutoCAD usa as ví
 Digite o comando **"LOCALIZAR / FIND"**. No campo de texto **"Localizar o quê"**, digite **","** (Somente vírgula sem Aspas). No campo de texto **"Substituir por"**, digite **"."** (Somente ponto sem Aspas). Em seguida, clique no botão **"Substituir Tudo"**, conforme demonstrado na Imagem 16. Com isso, todas as vírgulas serão substituídas por pontos.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img16.png" alt="Imagem 16" />
+    <img src="/img/chloe/erros-de-desenho/img16.webp" alt="Imagem 16" />
     <figcaption>Imagem 16</figcaption>
 </figure>
 
@@ -240,7 +240,7 @@ Bloco de Peça com pesos não batendo a multiplicação.
 A quantidade multiplicada pelo peso unitário deve resultar no peso total. Por exemplo, na Imagem 17, a quantidade é 71 e o peso unitário é de 10,0 kg. Portanto, o peso total deveria ser 710,0 kg, mas consta apenas 71,0 kg.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img17.png" alt="Imagem 17" />
+    <img src="/img/chloe/erros-de-desenho/img17.webp" alt="Imagem 17" />
     <figcaption>Imagem 17</figcaption>
 </figure>
 
@@ -321,7 +321,7 @@ Ao criar cotas escalonadas, é uma prática comum modificar as cores das linhas 
 Abrir o **"Modificador de Cota"** e na aba **"Linhas"** colocar em **"Cor"** para **"PorCamada"**, como demostrado na Imagem 23.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img23.png" alt="Imagem 23" />
+    <img src="/img/chloe/erros-de-desenho/img23.webp" alt="Imagem 23" />
     <figcaption>Imagem 23</figcaption>
 </figure>
 
@@ -336,7 +336,7 @@ Todas as cota do desenho devem ficar na mesma Escala do Formato.
 Abrir o **"Modificador de Cota"** e na aba **"Ajustar"** colocar em **"Usar escala global de:"**  para a Escala do Formato, como desmotrado na Imagem 24
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img24.png" alt="Imagem 24" />
+    <img src="/img/chloe/erros-de-desenho/img24.webp" alt="Imagem 24" />
     <figcaption>Imagem 24</figcaption>
 </figure>
 
@@ -362,7 +362,7 @@ Abrir o **"Modificador de Cota"** e na aba **"Unidades Primárias"** colocar em 
 Caso o Fator de Escala estiver correto, verificar se o nome da cota está correto.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img25.png" alt="Imagem 25" />
+    <img src="/img/chloe/erros-de-desenho/img25.webp" alt="Imagem 25" />
     <figcaption>Imagem 25</figcaption>
 </figure>
 
@@ -374,7 +374,7 @@ Lista com Blocos que estão no desenho só que numa versão antiga.
 Este erro apresenta uma lista de blocos que estão presentes no desenho, porém, em uma versão antiga podendo ser R16 ou R18. O erro será exibido com o nome do bloco e uma descrição referente ao Bloco, como mostrado na Imagem 26.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img26.png" alt="Imagem 26" />
+    <img src="/img/chloe/erros-de-desenho/img26.webp" alt="Imagem 26" />
     <figcaption>Imagem 26</figcaption>
 </figure>
 
@@ -382,7 +382,7 @@ Este erro apresenta uma lista de blocos que estão presentes no desenho, porém,
 Na comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**.  Dentro dessa aba, há uma árvore de nós onde podemos expandir nó de **"Blocos"** para mostrar todas as blocos presentes no desenho, facilitando a substituição dos mesmos. Conforme demonstrado na Imagem 27.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img27.png" alt="Imagem 27" />
+    <img src="/img/chloe/erros-de-desenho/img27.webp" alt="Imagem 27" />
     <figcaption>Imagem 27</figcaption>
 </figure>
 

@@ -12,7 +12,7 @@ sidebar_position: 2
 Digite o comando **``EXTRATRIB / ATTEXT``** na barra de comando e pressione **``Enter``**, como demonstrado na Imagem 01.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img01.png" alt="Imagem 01" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img01.webp" alt="Imagem 01" />
     <figcaption>Imagem 01</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ Digite o comando **``EXTRATRIB / ATTEXT``** na barra de comando e pressione **``
 Ao acessar a aba denominada **``Extração de Atributos``**, no canto superior esquerdo dessa aba selecione a opção **``Arquivo delimitado por vírgulas (CDF)``**, como demonstrado na Imagem 02.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img02.png" alt="Imagem 02" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img02.webp" alt="Imagem 02" />
     <figcaption>Imagem 02</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ Ao acessar a aba denominada **``Extração de Atributos``**, no canto superior e
 Clique no botão **``Selecionar objetos``**, localizado à esquerda, na parte central, como desmonstrado na Imagem 03.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img03.png" alt="Imagem 03" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img03.webp" alt="Imagem 03" />
     <figcaption>Imagem 03</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Clique no botão **``Selecionar objetos``**, localizado à esquerda, na parte ce
 Selecione os Blocos Brancos, Bloco de Parafuso ou Bloco de Material que deseja como mostrado na Imagem 04.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img04.png" alt="Imagem 04" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img04.webp" alt="Imagem 04" />
     <figcaption>Imagem 04</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Selecione os Blocos Brancos, Bloco de Parafuso ou Bloco de Material que deseja c
 Clique no botão **``Template de arquivo``**, localizado à esquerda, na parte central, como desmonstrado na Imagem 05.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img05.png" alt="Imagem 05" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img05.webp" alt="Imagem 05" />
     <figcaption>Imagem 05</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\EX
 ```
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img06.png" alt="Imagem 06" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img06.webp" alt="Imagem 06" />
     <figcaption>Imagem 06</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Abaixo, você verá qual configuração de extração se aplica a qual bloco e o
 | CONFIG EXTRAÇÃO - MATERIAL      | Bloco de Material          | Posição, Descrição, Unidade, Quantidade, Material e Peso |
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img07.png" alt="Imagem 07" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img07.webp" alt="Imagem 07" />
     <figcaption>Imagem 07</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Abaixo, você verá qual configuração de extração se aplica a qual bloco e o
 Clique no botão **``Arquivo de saída``**, localizado à esquerda na parte central, como desmonstrado na Imagem 08.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img08.png" alt="Imagem 08" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img08.webp" alt="Imagem 08" />
     <figcaption>Imagem 08</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Uma aba chamada **``Arquivo de Saída``** será aberta. Clique na opção **``Á
 Se você não definir um caminho de saída, o arquivo será salvo na mesma pasta onde o desenho está localizado
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img09.png" alt="Imagem 09" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img09.webp" alt="Imagem 09" />
     <figcaption>Imagem 09</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Se você não definir um caminho de saída, o arquivo será salvo na mesma pasta
 Clique no botão **``Ok``**, localizado na parte inferior central, para gerar um arquivo de texto contendo as informações dos blocos, conforme demonstrado na Imagem 10. 
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img10.png" alt="Imagem 10" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img10.webp" alt="Imagem 10" />
     <figcaption>Imagem 10</figcaption>
 </figure>
 
@@ -111,7 +111,7 @@ L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\EX
 ```
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img11.png" alt="Imagem 11" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img11.webp" alt="Imagem 11" />
     <figcaption>Imagem 11</figcaption>
 </figure>
 
@@ -119,7 +119,7 @@ L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\EX
 Será redirecionado para uma pasta  com **``Planilhas para Extração``**. Selecione a planilha desejada abra uma, conforme demostrado na Imagem 12.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img12.png" alt="Imagem 12" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img12.webp" alt="Imagem 12" />
     <figcaption>Imagem 12</figcaption>
 </figure>
 
@@ -127,7 +127,7 @@ Será redirecionado para uma pasta  com **``Planilhas para Extração``**. Selec
 Abra o arquivo de texto gerado no <a href="#passo-10">Passo 10</a> que deve estar na Área de Trabalho, selecione todo o conteúdo com **``CTRL+A``** e copie-o com **``CTRL+C``**, conforme demostrado na Imagem 13.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img13.png" alt="Imagem 13" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img13.webp" alt="Imagem 13" />
     <figcaption>Imagem 13</figcaption>
 </figure>
 
@@ -135,6 +135,6 @@ Abra o arquivo de texto gerado no <a href="#passo-10">Passo 10</a> que deve esta
 Cole os dados na célula **``A2``** da planilha para garantir que você tenha todas as informações dos blocos.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img14.png" alt="Imagem 14" />
+    <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img14.webp" alt="Imagem 14" />
     <figcaption>Imagem 14</figcaption>
 </figure>

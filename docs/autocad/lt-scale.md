@@ -17,7 +17,7 @@ Na Imagem 01, podemos observar diferentes configurações de LTSCALE:
 Essa transição de espaçamento ilustra como diferentes valores de LTSCALE afetam a aparência dos tipos de linha no desenho, permitindo ajustar a visibilidade e o detalhe conforme necessário.
 
 <figure>
-    <img src="/img/autocad/ltscale/img01.png" alt="Imagem 01" />
+    <img src="/img/autocad/ltscale/img01.webp" alt="Imagem 01" />
     <figcaption>Imagem 01</figcaption>
 </figure>
 
@@ -25,6 +25,6 @@ Essa transição de espaçamento ilustra como diferentes valores de LTSCALE afet
 O valor do LTScale deve ser a metade da escala do desenho, conforme demonstrado na Imagem 02. Por exemplo, se o desenho tiver escala 1:50, divide-se 50 por 2, resultando em 25 para LTScale. Da mesma forma, se a escala for 1:20, divide-se 20 por 2, obtendo-se 10 para LTScale.
 
 <figure>
-    <img src="/img/autocad/ltscale/img02.png" alt="Imagem 02" />
+    <img src="/img/autocad/ltscale/img02.webp" alt="Imagem 02" />
     <figcaption>Imagem 02</figcaption>
 </figure>

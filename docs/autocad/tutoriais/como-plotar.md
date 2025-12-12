@@ -14,7 +14,7 @@ sidebar_position: 3
 Clique ao ícone do DWG True Viewer ou do AutoCAD localizado no canto superior esquerdo da tela. Em seguida, clique nas opções como indicado na Imagem 01.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img01.png" alt="Imagem 01" />
+    <img src="/img/autocad/tutoriais/como-plotar/img01.webp" alt="Imagem 01" />
     <figcaption>Imagem 01</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ Clique ao ícone do DWG True Viewer ou do AutoCAD localizado no canto superior e
 Abra a opção **`Caminho do arquivo de suporte à impressora`**, e seguida **`Caminho de pesquisa da tabela de estilos de plotagem`**. Essas opções estão destacadas na Imagem 02.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img02.png" alt="Imagem 02" />
+    <img src="/img/autocad/tutoriais/como-plotar/img02.webp" alt="Imagem 02" />
     <figcaption>Imagem 02</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Abra a opção **`Caminho do arquivo de suporte à impressora`**, e seguida **`C
 Selecione o caminho, e clique em remover, assim como na Imagem 03.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img03.png" alt="Imagem 03" />
+    <img src="/img/autocad/tutoriais/como-plotar/img03.webp" alt="Imagem 03" />
     <figcaption>Imagem 03</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\PA
 ```
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img04.png" alt="Imagem 04" />
+    <img src="/img/autocad/tutoriais/como-plotar/img04.webp" alt="Imagem 04" />
     <figcaption>Imagem 04</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\PA
 Clique em aplicar, e reinecie o DWG True Viewer ou AutoCAD, conforme indica a Imagem 05 no canto inferior direito.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img05.png" alt="Imagem 05" />
+    <img src="/img/autocad/tutoriais/como-plotar/img05.webp" alt="Imagem 05" />
     <figcaption>Imagem 05</figcaption>
 </figure>
  
@@ -60,7 +60,7 @@ Clique em aplicar, e reinecie o DWG True Viewer ou AutoCAD, conforme indica a Im
  Clique ao ícone da Impressora localizado no canto superior esquerdo da tela., como mostra na Imagem 06.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img06.png" alt="Imagem 06" />
+    <img src="/img/autocad/tutoriais/como-plotar/img06.webp" alt="Imagem 06" />
     <figcaption>Imagem 06</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ Clique em aplicar, e reinecie o DWG True Viewer ou AutoCAD, conforme indica a Im
 Dentro da seção de Impressora/Plotadora, você pode escolher caso queira o PDF ou Imprimir direto na impressora. Neste tutorial, vamos prosseguir com PDF, para isso utilizamos o **`AutoCAD PDF (High Quality Print).pc3`**, note essa opção na Imagem 07.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img07.png" alt="Imagem 07" />
+    <img src="/img/autocad/tutoriais/como-plotar/img07.webp" alt="Imagem 07" />
     <figcaption>Imagem 07</figcaption>
 </figure>
 
@@ -78,12 +78,12 @@ Dentro da seção **`Tamanho do Papel`** é possível selecionar o tamanho do pa
 É possível ver o tamanho do Formato no próprio desenho no canto inferior direito, próximo a Legenda.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img08.png" alt="Imagem 08" />
+    <img src="/img/autocad/tutoriais/como-plotar/img08.webp" alt="Imagem 08" />
     <figcaption>Imagem 08</figcaption>
 </figure>
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img09.png" alt="Imagem 09" />
+    <img src="/img/autocad/tutoriais/como-plotar/img09.webp" alt="Imagem 09" />
     <figcaption>Imagem 09</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Dentro da seção **`Tamanho do Papel`** é possível selecionar o tamanho do pa
 Dentro da Área de Plotagem, selecione a Janela e, após, clique no botão, como na Imagem 10.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img10.png" alt="Imagem 10" />
+    <img src="/img/autocad/tutoriais/como-plotar/img10.webp" alt="Imagem 10" />
     <figcaption>Imagem 10</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Dentro da Área de Plotagem, selecione a Janela e, após, clique no botão, como
 Vai abrir uma janela para você poder selecionar a parte do desenho, como mostra a Imagem 11.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img11.png" alt="Imagem 11" />
+    <img src="/img/autocad/tutoriais/como-plotar/img11.webp" alt="Imagem 11" />
     <figcaption>Imagem 11</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Vai abrir uma janela para você poder selecionar a parte do desenho, como mostra
 A opção de **``Centralizar plotagem``** precisa estar selecionada. Observe a Imagem 12.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img12.png" alt="Imagem 12" />
+    <img src="/img/autocad/tutoriais/como-plotar/img12.webp" alt="Imagem 12" />
     <figcaption>Imagem 12</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ Dependendo do formato do papel escolhido, siga estas instruções e a Imagem 13:
     - Caso esteja lidando com o formato A1, verifique se a opção **``Ajustar ao Papel``** está marcada. Isso garantirá que o desenho seja ajustado automaticamente para se adequar ao tamanho do papel selecionado.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img13.png" alt="Imagem 13" />
+    <img src="/img/autocad/tutoriais/como-plotar/img13.webp" alt="Imagem 13" />
     <figcaption>Imagem 13</figcaption>
 </figure>
 
@@ -137,7 +137,7 @@ Screening 100% - Seria exatamente o que está no Desenho.
 Recomendação: Caso queira imprimir colorido utilize o REDECAM-FABRICAÇÃO, por que as cores ficam mais fortes. Facilitando a visualização.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img14.png" alt="Imagem 14" />
+    <img src="/img/autocad/tutoriais/como-plotar/img14.webp" alt="Imagem 14" />
     <figcaption>Imagem 14</figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ Recomendação: Caso queira imprimir colorido utilize o REDECAM-FABRICAÇÃO, po
 Após todas as configurações aplicadas. Clique em **``Ok``**, e em **``Continuar``**, como indica a Imagem 15.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img15.png" alt="Imagem 15" />
+    <img src="/img/autocad/tutoriais/como-plotar/img15.webp" alt="Imagem 15" />
     <figcaption>Imagem 15</figcaption>
 </figure>
 
@@ -153,6 +153,6 @@ Após todas as configurações aplicadas. Clique em **``Ok``**, e em **``Continu
 Selecione um caminho para salvar seu arquivo, como mostra a Imagem 16, e clique em **``Salvar``**.
 
 <figure>
-    <img src="/img/autocad/tutoriais/como-plotar/img16.png" alt="Imagem 16" />
+    <img src="/img/autocad/tutoriais/como-plotar/img16.webp" alt="Imagem 16" />
     <figcaption>Imagem 16</figcaption>
 </figure>

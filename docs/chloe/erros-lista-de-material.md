@@ -12,7 +12,7 @@ Index vazio.
 Umas das coisas que a Chloe utiliza para poder se localizar e a partir do Index. Quando se tem um por exemplo 2.1, 2.2, 2.3. Isso é componentes de uma peça de Index 2, como demonstrado na Imagem 01.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img01.png" alt="Imagem 01" />
+    <img src="/img/chloe/erros-de-lista/img01.webp" alt="Imagem 01" />
     <figcaption>Imagem 01</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ Material não encontrado.
 Isso ocorre quando não é possível identificar o material porque a célula está em branco, como demonstrado na Imagem 02.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img02.png" alt="Imagem 02" />
+    <img src="/img/chloe/erros-de-lista/img02.webp" alt="Imagem 02" />
     <figcaption>Imagem 02</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Matérial não cadastrado.
 Isso ocorre quando não é encontrado o Material na base de dados da Chloe, como demonstrado na Imagem 03.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img03.png" alt="Imagem 03" />
+    <img src="/img/chloe/erros-de-lista/img03.webp" alt="Imagem 03" />
     <figcaption>Imagem 03</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Peso não encontrado.
 Isso ocorre quando na coluna da **MASSA** aparece com célula em branco, como demonstrado na Imagem 04.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img04.png" alt="Imagem 04" />
+    <img src="/img/chloe/erros-de-lista/img04.webp" alt="Imagem 04" />
     <figcaption>Imagem 04</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Massa com Libra.
 Isso ocorre quando na coluna da massa aparece em Libra invés de Kilograma, como demonstrado na Imagem 05.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img05.png" alt="Imagem 04" />
+    <img src="/img/chloe/erros-de-lista/img05.webp" alt="Imagem 04" />
     <figcaption>Imagem 05</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ QTDE não encontrado.
 Isso ocorre quando a coluna de QTDE BASE está vazia, como demonstrado na Imagem 06.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img06.png" alt="Imagem 06" />
+    <img src="/img/chloe/erros-de-lista/img06.webp" alt="Imagem 06" />
     <figcaption>Imagem 06</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Componente com Descrição.
 Componentes de uma peça devem ser identificados com materiais, como demostrado na Imagem 07.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img07.png" alt="Imagem 07" />
+    <img src="/img/chloe/erros-de-lista/img07.webp" alt="Imagem 07" />
     <figcaption>Imagem 07</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ Peso da Peça não batendo com soma dos Componentes.
 O peso da peça é calculado multiplicando o peso unitário do subcomponente pela quantidade, resultando no peso total da peça. Na Imagem 08, podemos observar que o item 2.5 está com o peso unitário incorreto, o que impacta o cálculo final.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img08.png" alt="Imagem 08" />
+    <img src="/img/chloe/erros-de-lista/img08.webp" alt="Imagem 08" />
     <figcaption>Imagem 08</figcaption>
 </figure>
 
@@ -135,7 +135,7 @@ Peça sem código de projeto.
 Isso ocorre em dois casos, quando é reutilizado peças de um projeto anterior, e exportado com códigos sem alteração. Em outros casos foi algum problema no modelo como na Imagem 09.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img09.png" alt="Imagem 09" />
+    <img src="/img/chloe/erros-de-lista/img09.webp" alt="Imagem 09" />
     <figcaption>Imagem 09</figcaption>
 </figure>
 
@@ -153,7 +153,7 @@ Elemento não cadastrado.
 Ocorre quando a Chloe recebe um tipo Elemento/Material que ela ainda não tenha cadastrado em seu Banco de Dados, como exemplo a Imagem 10 com células destacas em laranja.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img10.png" alt="Imagem 10" />
+    <img src="/img/chloe/erros-de-lista/img10.webp" alt="Imagem 10" />
     <figcaption>Imagem 10</figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ Peso com Varia.
 Quando o Inventor extrai uma lista, ele tenta simplificar com base no número da peça. No entanto, no caso da Imagem 11, mesmo que o código seja o mesmo, há algumas diferenças, como a presença de furos, o que resulta *Varia* no peso.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img11.png" alt="Imagem 11" />
+    <img src="/img/chloe/erros-de-lista/img11.webp" alt="Imagem 11" />
     <figcaption>Imagem 11</figcaption>
 </figure>
 
@@ -183,7 +183,7 @@ Divergência no arredondamento do peso entre peças e a lista de material.
 A soma dos pesos das peças tem que ser igual à da lista de materiais. Em caso de divergência, a aba da planilha será destacada em vermelho, como desmostrado na Imagem 12.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img12.png" alt="Imagem 12" />
+    <img src="/img/chloe/erros-de-lista/img12.webp" alt="Imagem 12" />
     <figcaption>Imagem 12</figcaption>
 </figure>
 
@@ -201,7 +201,7 @@ Não foi possível calcular a quantidade do material.
 Este erro ocorre quando a Chloe tenta calcular a quantidade a partir do Peso correspondente, mas não consegue devido à ausência de alguma informação, a celula será pintada azul e escrito NULL, como demostrado na Imagem 13.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img13.png" alt="Imagem 13" />
+    <img src="/img/chloe/erros-de-lista/img13.webp" alt="Imagem 13" />
     <figcaption>Imagem 13</figcaption>
 </figure>
 
@@ -216,6 +216,6 @@ Material diferente de Aço Carbono.
 O padrão a ser utilizado é S235JR ou ASTM-A36. E quando aparecer esse Alerta, é um indicativo de que algo incomum está ocorrendo. Por exemplo, já houve um caso em que um guarda-corpo foi enviado inteiramente em Inox AISI 304L, conforme mostrado na Imagem 14.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img14.png" alt="Imagem 14" />
+    <img src="/img/chloe/erros-de-lista/img14.webp" alt="Imagem 14" />
     <figcaption>Imagem 14</figcaption>
 </figure>
