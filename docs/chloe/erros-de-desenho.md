@@ -154,21 +154,6 @@ Colocar a mesma data no Bloco de Revisão 0 e no Bloco de Legenda.
 
 ---
 
-## Error ED11
-Bloco de Revisão atual está diferente da Data de Revisão no Bloco de Legenda.
-
-O Bloco de Revisão atual deve corresponder à Data de Revisão do Bloco de Legenda. Por exemplo, se o desenho está na revisão 1, o Bloco de Revisão deve exibir a data correspondente a essa revisão, e o Bloco de Legenda deve refletir a mesma Data de Revisão, conforme indicado na Imagem 11.
-
-<figure>
-    <img src="/img/chloe/erros-de-desenho/img11.webp" alt="Imagem 11" />
-    <figcaption>Imagem 11</figcaption>
-</figure>
-
-### Solução
-Colocar a mesma data no Bloco de Revisão e no Bloco de Legenda.
-
----
-
 ## Error ED12
 Bloco de Revisão atual não preenchido.
 
@@ -215,9 +200,9 @@ Ao copiar peças extraídas do Inventor para o AutoCAD, se o desenho não possui
 ---
 
 ## Error ED15
-Peso no Bloco de Peça com vírgula.
+Peso no Bloco de Peça com ponto.
 
-O Padrão utilizado para separar número decimais é ponto. O AutoCAD usa as vírgulas como separadores de atributos, indicando o início e o fim de um atributo. Podendo ser visto na Imagem 15.
+O Padrão utilizado para separar número decimais é vírgula.
 
 <figure>
     <img src="/img/chloe/erros-de-desenho/img15.webp" alt="Imagem 15" />
@@ -225,7 +210,7 @@ O Padrão utilizado para separar número decimais é ponto. O AutoCAD usa as ví
 </figure>
 
 ### Solução
-Digite o comando **"LOCALIZAR / FIND"**. No campo de texto **"Localizar o quê"**, digite **","** (Somente vírgula sem Aspas). No campo de texto **"Substituir por"**, digite **"."** (Somente ponto sem Aspas). Em seguida, clique no botão **"Substituir Tudo"**, conforme demonstrado na Imagem 16. Com isso, todas as vírgulas serão substituídas por pontos.
+Digite o comando **"LOCALIZAR / FIND"**. No campo de texto **"Localizar o quê"**, digite **"."** (Somente ponto sem Aspas). No campo de texto **"Substituir por"**, digite **","** (Somente vírgula sem Aspas). Em seguida, clique no botão **"Substituir Tudo"**, conforme demonstrado na Imagem 16. Com isso, todas as pontos serão substituídas por vírgulas.
 
 <figure>
     <img src="/img/chloe/erros-de-desenho/img16.webp" alt="Imagem 16" />
@@ -237,7 +222,7 @@ Digite o comando **"LOCALIZAR / FIND"**. No campo de texto **"Localizar o quê"*
 ## Error ED16
 Bloco de Peça com pesos não batendo a multiplicação.
 
-A quantidade multiplicada pelo peso unitário deve resultar no peso total. Por exemplo, na Imagem 17, a quantidade é 71 e o peso unitário é de 10,0 kg. Portanto, o peso total deveria ser 710,0 kg, mas consta apenas 71,0 kg.
+A quantidade multiplicada pelo peso unitário deve resultar no peso total. Por exemplo, na Imagem 17, a quantidade é 1 e o peso unitário é de 128,1 kg. Portanto, o peso total deveria ser 128,1 kg, mas consta apenas 256,2 kg.
 
 <figure>
     <img src="/img/chloe/erros-de-desenho/img17.webp" alt="Imagem 17" />
@@ -249,61 +234,28 @@ A quantidade multiplicada pelo peso unitário deve resultar no peso total. Por e
 
 ---
 
-## Error ED17
-Bloco de Peca com vírgula na descrição.
-
-O Padrão utilizado para separar número decimais é ponto. A Redecam usa as vírgulas como separadores de atributos, indicando o início e o fim de um atributo. Podendo ser visto na Imagem 18.
-
-<figure>
-    <img src="/img/chloe/erros-de-desenho/img18.jpg" alt="Imagem 18" />
-    <figcaption>Imagem 18</figcaption>
-</figure>
-
-### Solução
-Digite o comando **"LOCALIZAR / FIND"**. No campo de texto **"Localizar o quê"**, digite **","** (Somente vírgula sem Aspas). No campo de texto **"Substituir por"**, digite **"."** (Somente vírgula sem Aspas). Em seguida, clique no botão **"Substituir Tudo"**, conforme demonstrado na Imagem 19. Com isso, todas as vírgulas serão substituídas por pontos.
-
-<figure>
-    <img src="/img/chloe/erros-de-desenho/img19.jpg" alt="Imagem 19" />
-    <figcaption>Imagem 19</figcaption>
-</figure>
-
----
-
 ## Error ED18
 Nota com Código de Identificação das peças diferente do Código do Desenho.
 
 Nota com Código de Identificação das peças deve ter o mesmo Código do Desenho seguindo a divisão do AA-SS-DD, como mostrado na Imagem 20.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img20.jpg" alt="Imagem 20" />
+    <img src="/img/chloe/erros-de-desenho/img20.webp" alt="Imagem 20" />
     <figcaption>Imagem 20</figcaption>
 </figure>
 
 ### Solução
 Utilizar o código Lisp <a href="/docs/autocad/lisp/atualiza-codigo-legenda">AtualizaCodigoLegenda para arrumar Codigo de Identificação</a>
 
-## Error ED19
-Fator de Largura do atributo Marca no Bloco de Peça diferente de 0,7.
-
-Utilizar um fator de largura de 0.7 no atributo de Marca no Bloco de Peça, de modo que ao copiar o bloco para um desenho de conjunto, o atributo receba o código de desenho ajustem adequadamente ao espaço.
-
-### Solução
-Utilizar o comando **"GERATRIB / BATTMAN"**  para poder atualizar o atributo do Bloco, como mostrado na Imagem 21.
-
-<figure>
-    <img src="/img/chloe/erros-de-desenho/img21.jpg" alt="Imagem 21" />
-    <figcaption>Imagem 21</figcaption>
-</figure>
-
 ---
 
 ## Error ED20
 Nota com Peso Aproximado está diferente da Soma dos Blocos de Peça.
 
-A soma dos blocos de peças deve coincidir com o peso total aproximado na nota. Se houver **"APENAS AÇO / ONLY STEELWORK"**, esse valor deve excluir o peso da **"LÃ DE ROCHA / ROCK WOOL"** e considerar esse peso na nota **"INCLUINDO LÃ DE ROCHA | INCLUDING ROCK WOOL"**, como demostrado na Imagem 22.
+A soma dos blocos de peças deve coincidir com o peso total aproximado na nota, como demostrado na Imagem 22.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img22.jpg" alt="Imagem 22" />
+    <img src="/img/chloe/erros-de-desenho/img22.webp" alt="Imagem 22" />
     <figcaption>Imagem 22</figcaption>
 </figure>
 

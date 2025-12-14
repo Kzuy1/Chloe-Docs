@@ -61,16 +61,7 @@ L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\EX
 </figure>
 
 ## Passo 07
-Você encontrará quatro templates para extração. Selecione o template desejado e clique no botão **``Abrir``**, como desmonstrado na Imagem 07
-
-Abaixo, você verá qual configuração de extração se aplica a qual bloco e os atributos que cada configuração extrai.
-
-| Template de Extração            | Bloco que aplica           | Atributos Extraído                                       |
-| ------------------------------- | -------------------------- | -------------------------------------------------------- |
-| CONFIG EXTRAÇÃO                 | Bloco Branco               | Tag, Quantidade, Peso Unitário e Peso Total              |
-| CONFIG EXTRAÇÃO DESCRIÇÃO-PEÇAS | Bloco Branco               | Tag, Descrição, Quantidade, Peso Unitário e Peso Total   |
-| CONFIG EXTRAÇÃO - PARAFUSO      | Bloco Azul / Bloco Amarelo | Posição, Código, Descrição e Quantidade                  |
-| CONFIG EXTRAÇÃO - MATERIAL      | Bloco de Material          | Posição, Descrição, Unidade, Quantidade, Material e Peso |
+Você encontrará templates para extração. Selecione o template desejado e clique no botão **``Abrir``**, como desmonstrado na Imagem 07
 
 <figure>
     <img src="/img/autocad/tutoriais/como-extrair-atributos-de-blocos/img07.webp" alt="Imagem 07" />
