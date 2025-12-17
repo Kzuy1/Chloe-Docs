@@ -51,13 +51,9 @@ Ajuste a escala para a escala indicada nos atributos de escala do Bloco.
 ---
 
 ## Error ED04
-Bloco de Legenda está com DRAW, CHECKED ou APPROVED errado.
+A mesma pessoa está atribuída a mais de um papel na Revisão de Pares.
 
-O Bloco de Legenda geralmente fica com : 
-
-> **DRAW:** EMB  
-> **CHECKED:** VOL  
-> **APPROVED:** Sem nada ou em Branco
+A Revisão de Pares exige que cada etapa seja realizada por pessoas distintas, garantindo a independência do processo, a rastreabilidade das responsabilidades e a conformidade com boas práticas de engenharia e auditoria.
 
 <figure>
     <img src="/img/chloe/erros-de-desenho/img04.webp" alt="Imagem 04" />
@@ -65,7 +61,22 @@ O Bloco de Legenda geralmente fica com :
 </figure>
 
 ### Solução
-Coloque os atributos indicados acima.
+Revise os atributos do Bloco e assegure que cada papel esteja atribuído a uma pessoa diferente, respeitando as funções.
+
+---
+
+## Error ED05
+A Revisão de Pares do Bloco de Revisão 0 deve ser igual ao Bloco de Título
+
+A Revisão de Pares definido no Bloco de Revisão 0 (Desenhou, Verificou e Aprovou) não correspondem aos informados no Bloco de Título do desenho.
+
+<figure>
+    <img src="/img/chloe/erros-de-desenho/img11.webp" alt="Imagem 11" />
+    <figcaption>Imagem 11</figcaption>
+</figure>
+
+### Solução
+Revise os atributos do Bloco.
 
 ---
 
@@ -155,7 +166,7 @@ Colocar a mesma data no Bloco de Revisão 0 e no Bloco de Legenda.
 ---
 
 ## Error ED12
-Bloco de Revisão atual não preenchido.
+Bloco de Revisão atual não está preenchido.
 
 O Bloco de Revisão deve estar preenchido com informações de data, descrição, desenhista e verificador. Por exemplo, conforme mostrado na Imagem 12, o Bloco de Revisão 2 está vazio, apesar de o desenho estar na Revisão 02.
 
