@@ -136,9 +136,9 @@ Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que nã
 ---
 
 ## Error ED09
-Deve ter apenas um Bloco de Legenda no mesmo desenho.
+Blocos duplicados identificados no desenho.
 
-Não enviar desenhos como indicado na Imagem 09, a Chloe utiliza os Blocos de Legenda para determinar certas informações para realizar outras verificações.
+Este erro ocorre quando há mais de um bloco do mesmo tipo no arquivo.
 
 <figure>
     <img src="/img/chloe/erros-de-desenho/img09.webp" alt="Imagem 09" />
@@ -146,7 +146,7 @@ Não enviar desenhos como indicado na Imagem 09, a Chloe utiliza os Blocos de Le
 </figure>
 
 ### Solução
-Dividir o desenho em dois arquivos dwg.
+Dividir o desenho em dois arquivos dwg ou excluir os blocos duplicados.
 
 ---
 
@@ -328,6 +328,25 @@ Caso o Fator de Escala estiver correto, verificar se o nome da cota está corret
     <img src="/img/chloe/erros-de-desenho/img25.webp" alt="Imagem 25" />
     <figcaption>Imagem 25</figcaption>
 </figure>
+
+---
+
+## Error ED24
+Bloco de Formato não está na origem (0,0,0).
+
+Este erro ocorre quando o Bloco de Formato não está posicionado na origem do sistema de coordenadas, como demostrado na Imagem 28.
+
+<figure>
+    <img src="/img/chloe/erros-de-desenho/img28.webp" alt="Imagem 28" />
+    <figcaption>Imagem 28</figcaption>
+</figure>
+
+### Solução
+Digite o comando **"Mover / Move"**, selecione todo o desenho com **"CTRL + A"**, escolha o canto inferior esquerdo do desenho como ponto base, e quando solicitado o ponto de destino, digite: 
+```
+*0,0,0
+```
+Finalize o comando.
 
 ---
 
