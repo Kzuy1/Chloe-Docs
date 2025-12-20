@@ -350,6 +350,23 @@ Finalize o comando.
 
 ---
 
+## Error ED25
+Cota com Passo x Quantidade divergente da Dimensão.
+
+Este erro ocorre quando o valor obtido pela multiplicação da quantidade de passos pelo passo informado no texto da cota não corresponde à dimensão.
+
+Na Imagem 29, observa-se uma cota com o texto (3×180), que resulta no valor 540, diferente do valor apresentado na cota 480. Nesse caso, o passo real é 160, indicando inconsistência entre o texto da cota e a dimensão informada.
+
+<figure>
+    <img src="/img/chloe/erros-de-desenho/img29.webp" alt="Imagem 29" />
+    <figcaption>Imagem 29</figcaption>
+</figure>
+
+### Solução
+Revise a cota que tem (QTDE × PASSO) e ajuste a quantidade de passos ou o valor do passo, garantindo que o resultado da multiplicação corresponda ao valor.
+
+---
+
 ## Error ED0B
 Lista com Blocos que estão no desenho só que numa versão antiga.
 
