@@ -36,7 +36,7 @@ Uma nova aba intitulada **`Gerenciador de Estados da Camada`** será aberta, exi
 Clique no botão **`Importar`**, que está localizado na direita. Isso abrirá uma nova aba chamada **`Importar estado de modelo`**, onde você deverá inserir o link fornecido abaixo no campo **`Nome do arquivo`**, e ir no botão **`Abrir`**, conforme demonstrado na Imagem 04.
 
 ```
-L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\PADRÕES LAYERS
+L:\Drives compartilhados\SATUS_ENGENHARIA-BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\PADRÕES LAYERS
 ```
 
 <figure>
@@ -93,7 +93,7 @@ Ao fechar a aba do **`Gerenciador de Estados da Camada`**, podera ver as **`Prop
 Abra o **`REDECAM AutoCAD Template`**, disponível no link abaixo, e copie o **`Bloco de Camada`** (Na Imagem 11, você pode ver a localização do bloco). Mova-o para dentro do desenho e, em seguida, reinicie o processo desde o início.
 
 ```
-L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES CLIENTES\REDECAM\REDECAM AutoCAD Template R19.dwg
+L:\Drives compartilhados\SATUS_ENGENHARIA-BIBLIOTECA\PADRÕES CLIENTES\SATUS\SATUS.dwg
 ```
 
 <figure>

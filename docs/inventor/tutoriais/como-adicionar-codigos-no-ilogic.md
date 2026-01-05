@@ -35,7 +35,7 @@ Com a aba **``Configuração avançada do ILogic``** aberta, vá no canto superi
 Com a aba **``Procurar Pasta``** aberta, copie o link abaixo:
 
 ```
-L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTODESK\ILogic
+L:\Drives compartilhados\SATUS_ENGENHARIA-BIBLIOTECA\PADRÕES PROGRAMAS\INVENTOR\ILOGIC
 ```
 
 Ao copiar, coloque no campo **``Pasta``** e clique no botão **``Ok``**, conforme a Imagem 04 mostra.
