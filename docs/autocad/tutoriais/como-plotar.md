@@ -38,7 +38,7 @@ Selecione o caminho, e clique em remover, assim como na Imagem 03.
 Após a remoção adicione o seguinte link no campo indicado na Imagem 04.
 
 ```
-L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\PADRÕES PLOTAGENS
+L:\Drives compartilhados\SATUS_ENGENHARIA-BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\PADRÕES PLOTAGENS
 ```
 
 <figure>

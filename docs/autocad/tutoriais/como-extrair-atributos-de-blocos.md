@@ -52,7 +52,7 @@ Clique no botão **``Template de arquivo``**, localizado à esquerda, na parte c
 Irá abrir a aba **``Template de Arquivo``**, onde você deverá inserir o link fornecido abaixo no campo **``Nome do arquivo``** e clicar no botão **``Abrir``**, como desmonstrado na Imagem 06.
 
 ```
-L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\EXTRAÇÃO
+L:\Drives compartilhados\SATUS_ENGENHARIA-BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\EXTRAÇÃO
 ```
 
 <figure>
@@ -98,7 +98,7 @@ Clique no botão **``Ok``**, localizado na parte inferior central, para gerar um
 No **``Explorador de arquivos``** insira o link fornecido abaixo, conforme demostrado na Imagem 11.
 
 ```
-L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\EXTRAÇÃO
+L:\Drives compartilhados\SATUS_ENGENHARIA-BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\EXTRAÇÃO
 ```
 
 <figure>

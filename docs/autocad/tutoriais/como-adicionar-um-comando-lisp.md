@@ -36,11 +36,11 @@ Ao abrir a janela **`Conjunto de inicialização`**, vá no canto inferior esque
 Ao abrir a janela de **`Adicionar arquivo ao Conjunto de Inicialização`**, copie o link abaixo, e clique em **``Abrir``**, como indicado na Imagem 04.
 
 ```
-L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\LISP
+L:\Drives compartilhados\SATUS_ENGENHARIA-BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\LISP
 ```
 
 <figure>
-    <img src="/img/autocad/tutoriaisp/como-adicionar-um-comando-lisp/img04.webp" alt="Imagem 04" />
+    <img src="/img/autocad/tutoriais/como-adicionar-um-comando-lisp/img04.webp" alt="Imagem 04" />
     <figcaption>Imagem 04</figcaption>
 </figure>
 
