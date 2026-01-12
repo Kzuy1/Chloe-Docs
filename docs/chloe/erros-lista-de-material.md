@@ -49,7 +49,7 @@ Isso ocorre quando não é encontrado o Material na base de dados da Chloe, como
 </figure>
 
 ### Solução
-Prosseguir para próximas etapas, apenas atentar que Chloe na lista de material vai colocar esses matériais não cadastrado como ultimo da lista, e informar NULL e o <a href="#error-ch14">Error CH14</a>.
+Prosseguir para próximas etapas, apenas atentar que Chloe na lista de material vai colocar esses matériais não cadastrado como ultimo da lista, e informar **"ERROR"** e o <a href="#error-ch14">Error CH14</a>.
 
 ---
 
@@ -158,7 +158,7 @@ Ocorre quando a Chloe recebe um tipo Elemento/Material que ela ainda não tenha 
 </figure>
 
 ### Solução
-Prosseguir para próximas etapas, apenas atentar que Chloe na lista de material vai colocar esses matériais com elemento não cadastrado como ultimo da lista, e informar NULL e o <a href="#error-ch14">Error CH14</a>.
+Prosseguir para próximas etapas, apenas atentar que Chloe na lista de material vai colocar esses matériais com elemento não cadastrado como ultimo da lista, e informar **"ERROR"** e o <a href="#error-ch14">Error CH14</a>.
 
 ---
 
@@ -198,7 +198,7 @@ Se houver uma discrepância muito grande, é necessário revisar a lista para id
 ## Error CH14
 Não foi possível calcular a quantidade do material.
 
-Este erro ocorre quando a Chloe tenta calcular a quantidade a partir do Peso correspondente, mas não consegue devido à ausência de alguma informação, a celula será pintada azul e escrito NULL, como demostrado na Imagem 13.
+Este erro ocorre quando a Chloe tenta calcular a quantidade a partir do Peso correspondente, mas não consegue devido à ausência de alguma informação, a celula será pintada azul e escrito ERROR, como demostrado na Imagem 13.
 
 <figure>
     <img src="/img/chloe/erros-de-lista/img13.webp" alt="Imagem 13" />
