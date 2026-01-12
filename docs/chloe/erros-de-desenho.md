@@ -23,7 +23,7 @@ Renomeie o arquivo seguindo a segmentação correta.
 ## Error ED02
 Bloco de Legenda está com código errado.
 
-Na Imagem 02, o Bloco de Legenda apresenta um código diferente do que está no Nome do Arquivo. Os códigos mostrados são 1FN2_FN-08-01, mas o correto é 1FN3_FN-A7-01.
+Na Imagem 02, o Bloco de Legenda apresenta um código diferente do que está no Nome do Arquivo.
 
 <figure>
     <img src="/img/chloe/erros-de-desenho/img02.webp" alt="Imagem 02" />
@@ -98,12 +98,12 @@ Ajustar o valor do LTScale para ser a metade da escala do desenho, conforme demo
 ---
 
 ## Error ED07
-Camada **"CONTOUR EXI"** está presente no Desenho.
+Camadas obsoletas presentes no desenho.
 
-Na versão R16, existia uma camada chamada **"CONTOUR EXI"** utilizada para indicar peças existentes. A partir da versão R19, essa camada foi substituída pela camada **"ESISTENTE"** (Existente em Italiano).
+Este erro ocorre quando o arquivo contém camadas que não são mais utilizadas ou obsoletas.
 
 ### Solução 01
-Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**. Dentro dessa aba, há uma árvore de nós onde podemos expandir o nó  de **"Camadas"** para mostrar todas as camadas presentes no desenho. Ao selecionar a camada **"CONTOUR EXI"**, serão exibidos todos os objetos associados a ela. Selecione esses objetos e mude para a camada **"ESISTENTE"**. Conforme demonstrado na Imagem 06.
+Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**. Dentro dessa aba, há uma árvore de nós onde podemos expandir o nó de **"Camadas"** para mostrar todas as camadas presentes no desenho. Ao selecionar a **"CAMADA OBSOLETA"**, serão exibidos todos os objetos associados a ela. Selecione esses objetos e mude para a camada do padrão. Conforme demonstrado na Imagem 06.
 
 <figure>
     <img src="/img/chloe/erros-de-desenho/img06.webp" alt="Imagem 06" />
@@ -111,7 +111,7 @@ Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que nã
 </figure>
 
 ### Solução 02
-Seguindo a <a href="#solução-01">solução anterior</a>, caso você tenha algum objeto em **"CONTOUR EXI"** dentro de um bloco, você pode copiar o nome do bloco e ao digitar o comando **"INSERIR"** abrirá uma janela mostrando todos os blocos. Selecione a aba **"Desenho Atual"** e cole o nome do bloco no campo de pesquisa que foi copiado anteriormente. Ao selecionar o bloco, é possível adicioná-lo ao desenho e ajustar o bloco para remover a layer **"CONTOUR EXI"**, conforme mostrado na Imagem 07.
+Seguindo a <a href="#solução-01">solução anterior</a>, caso você tenha algum objeto numa **"CAMADA OBSOLETA"** dentro de um bloco, você pode copiar o nome do bloco e ao digitar o comando **"INSERIR"** abrirá uma janela mostrando todos os blocos. Selecione a aba **"Desenho Atual"** e cole o nome do bloco no campo de pesquisa que foi copiado anteriormente. Ao selecionar o bloco, é possível adicioná-lo ao desenho e ajustar o bloco para remover a **"CAMADA OBSOLETA"**, conforme mostrado na Imagem 07.
 
 <figure>
     <img src="/img/chloe/erros-de-desenho/img07.webp" alt="Imagem 07" />
@@ -121,12 +121,12 @@ Seguindo a <a href="#solução-01">solução anterior</a>, caso você tenha algu
 ---
 
 ## Error ED08
-Linha de Chamada não está na camada QUOTE.
+Linha de Chamada não está na camada COTAS.
 
-A Linha de Chamada diferente das Cotas porque, ao contrário destas, não é automaticamente direcionada para a camada **"QUOTE"**. Em vez disso, ela é alocada na camada selecionada da Paleta de Camadas, que por padrão é a **"Camada 0"**, mas pode também ser a camada **"ASSI"** ou outras. Portanto, é necessário realizar a troca para garantir que a Linha de Chamada esteja na cama **"QUOTE"**. 
+A Linha de Chamada diferente das Cotas porque, ao contrário destas, não é automaticamente direcionada para a camada **"COTAS"**. Em vez disso, ela é alocada na camada selecionada da Paleta de Camadas, que por padrão é a **"Camada 0"**, mas pode também ser a camada **"NOTAS"** ou outras. Portanto, é necessário realizar a troca para garantir que a Linha de Chamada esteja na cama **"COTAS"**. 
 
 ### Solução
-Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**. Dentro dessa aba, há uma árvore de nós onde podemos expandir o nó  de **"Estilos de cota"** para mostrar todas os estilo de cota presentes no desenho. Ao selecionar a camada qualquer estilo, serão exibidos todos os objetos associados a ela. Selecione as Linhas de Chamadas que estão fora da camada **"QUOTE"**.  Conforme demonstrado na Imagem 08.
+Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**. Dentro dessa aba, há uma árvore de nós onde podemos expandir o nó  de **"Estilos de cota"** para mostrar todas os estilo de cota presentes no desenho. Ao selecionar a camada qualquer estilo, serão exibidos todos os objetos associados a ela. Selecione as Linhas de Chamadas que estão fora da camada **"COTAS"**.  Conforme demonstrado na Imagem 08.
 
 <figure>
     <img src="/img/chloe/erros-de-desenho/img08.webp" alt="Imagem 08" />
@@ -386,7 +386,3 @@ Na comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não pode
 </figure>
 
 ---
-
-## Error EDSB
-Lista de Blocos na escala errada.  
-**(EM DESENVOLVIMENTO)**
