@@ -5,7 +5,7 @@ sidebar_position: 3
 # Como Plotar?
 
 ## Informações:
-- Este tutorial é aplicável tanto ao AutoCAD quanto ao AutoCAD LT;
+- Este tutorial é aplicável tanto ao AutoCAD, AutoCAD LT ou DWG True View;
 - Cada etapa incluirá uma imagem explicativa.
 
 ## Configuração dos Estilos de Plotagem
@@ -75,7 +75,7 @@ Dentro da seção de Impressora/Plotadora, você pode escolher caso queira o PDF
 ## Passo 03
 Dentro da seção **`Tamanho do Papel`** é possível selecionar o tamanho do papel. Observe a seção na Imagem 08.
 
-É possível ver o tamanho do Formato no próprio desenho no canto inferior direito, próximo a Legenda.
+É possível ver o tamanho do Formato no próprio desenho no canto inferior direito, próximo a Legenda, conforme Imagem 09.
 
 <figure>
     <img src="/img/autocad/tutoriais/como-plotar/img08.webp" alt="Imagem 08" />
@@ -128,13 +128,7 @@ Dependendo do formato do papel escolhido, siga estas instruções e a Imagem 13:
 </figure>
 
 ## Passo 08
-Na opção **``Tabela Estilos de Plotagem``** (Imagem 14) é possível selecionar como deseja. 
-
-Monochrome.ctb - Preto e Branco  
-REDECAM-FABRICAÇÃO - É estilo para melhor visualização no papel, aonde as cores ficam mais fortes.  
-Screening 100% - Seria exatamente o que está no Desenho.  
-
-Recomendação: Caso queira imprimir colorido utilize o REDECAM-FABRICAÇÃO, por que as cores ficam mais fortes. Facilitando a visualização.
+Na opção **``Tabela Estilos de Plotagem``** (Imagem 14) é possível selecionar como deseja.
 
 <figure>
     <img src="/img/autocad/tutoriais/como-plotar/img14.webp" alt="Imagem 14" />

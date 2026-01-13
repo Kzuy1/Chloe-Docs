@@ -53,7 +53,7 @@ Ainda na aba **`Importar estado de modelo`**, no campo **`Arquivos do tipo`**, s
 </figure>
 
 ## Passo 06
-Selecione o arquivo **`PADRÃO-REDECAM`**, e clique no botão **`Abrir`**, como na Imagem 06.
+Selecione o arquivo desejado, e clique no botão **`Abrir`**, como na Imagem 06.
 
 <figure>
     <img src="/img/autocad/tutoriais/como-configurar-camada/img06.webp" alt="Imagem 06" />
@@ -74,7 +74,7 @@ Nesse passo, duas situações podem ocorrer. Se aparecer a mensagem **`Não foi 
 </figure>
 
 ## Passo 08
-Voltando a aba intitulada **`Gerenciador de Estados da Camada`**, selecione o estado de camada **`PADRÃO-REDECAM`**, e na parte de baixo em **`Opções de restauração`** deixe desmarcado a opção **`Desativar camadas não encontradas no estado da camada`**, e clique no botão **`Restaurar`** na parte inferior direita, conforme mostra a Imagem 09.
+Voltando a aba intitulada **`Gerenciador de Estados da Camada`**, selecione o estado de camada, e na parte de baixo em **`Opções de restauração`** deixe desmarcado a opção **`Desativar camadas não encontradas no estado da camada`**, e clique no botão **`Restaurar`** na parte inferior direita, conforme mostra a Imagem 09.
 
 <figure>
     <img src="/img/autocad/tutoriais/como-configurar-camada/img09.webp" alt="Imagem 09" />
@@ -90,7 +90,7 @@ Ao fechar a aba do **`Gerenciador de Estados da Camada`**, podera ver as **`Prop
 </figure>
 
 ## Erro 01
-Abra o **`REDECAM AutoCAD Template`**, disponível no link abaixo, e copie o **`Bloco de Camada`** (Na Imagem 11, você pode ver a localização do bloco). Mova-o para dentro do desenho e, em seguida, reinicie o processo desde o início.
+Abra o **`Template da Satus`**, disponível no link abaixo, e copie o **`Bloco de Camada`** (Na Imagem 11, você pode ver a localização do bloco). Mova-o para dentro do desenho e, em seguida, reinicie o processo desde o início.
 
 ```
 L:\Drives compartilhados\SATUS_ENGENHARIA-BIBLIOTECA\PADRÕES CLIENTES\SATUS\SATUS.dwg
