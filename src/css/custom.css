@@ -45,3 +45,46 @@ figure figcaption {
   font-size: 16px;
   text-align: center;
 }
+
+.status-valid {
+  background-color: #1f7a1f;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.status-obsolete {
+  background-color: #6b7280;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.bt-card {
+  border: 1px solid #444;
+  border-radius: 12px;
+  padding: 6px 10px;
+  margin-bottom: 15px;
+}
+
+.bt-card ul {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.table-center {
+  display: flex;
+  justify-content: center;
+}
+
+.table-center table {
+  width: auto;
+}
