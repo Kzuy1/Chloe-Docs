@@ -8,8 +8,8 @@ sidebar_position: 8
 > 📅 14/08/26  • <span class="status-valid">VÁLIDO</span>
 
 <div class="bt-card">
-- Categoria: Acessos
-- Equipamento: Grade
+- Categoria: Modelamento
+- Equipamento: Acessos - Grade
 </div>
 
 Para o projeto Redecam e Satus, a grade deverá possuir no máximo 1,00 m no sentido oposto à barra portante.
@@ -23,8 +23,8 @@ Para o projeto Redecam e Satus, a grade deverá possuir no máximo 1,00 m no sen
 > 📅 27/08/26  • <span class="status-valid">VÁLIDO</span>
 
 <div class="bt-card">
-- Categoria: Acessos
-- Equipamento: Grade
+- Categoria: Detalhamento
+- Equipamento: Acessos - Grade
 </div>
 
 Para os projetos Redecam e Satus, a descrição dos blocos de peças de degraus e grades deverá seguir o padrão definido abaixo, contendo obrigatoriamente o tipo do componente, a especificação da malha, o peso por m² e, para as grades, a quantidade de m² da peça.
