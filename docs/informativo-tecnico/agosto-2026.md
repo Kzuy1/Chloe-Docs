@@ -42,5 +42,42 @@ Exemplo:
 
 </div>
 
+## 3 - Cálculo de Curvas para Guarda-Corpos e Corrimãos
+> 📅 31/08/26  • <span class="status-valid">VÁLIDO</span>
+
+<div class="bt-card">
+- Categoria: Detalhamento
+- Equipamento: Acessos - Guarda-Corpos
+</div>
+
+Para os projetos Redecam e Satus, os guarda-corpos e corrimãos que possuírem curvas deverão ter as curvas calculadas e descontadas do peso total dos tubos na Lista de Materiais, conforme as seguintes regras:
+
+- Curva menor ou igual a 90°: considerar 1 quantidade.
+- Curva maior a 90°: considerar 2 quantidades.
+
+<figure>
+    <img src="/img/informativo-tecnico/agosto-2026/img02.webp" alt="Imagem 02" />
+    <figcaption>Imagem 02</figcaption>
+</figure>
+
+## 4 - Utilização de MOD e MODELO
+> 📅 31/08/26  • <span class="status-valid">VÁLIDO</span>
+
+<div class="bt-card">
+- Categoria: Detalhamento
+</div>
+
+Para os projetos Redecam e Satus, não utilizar a abreviação **“MOD”** para identificação de peças em desenhos.
+
+Deverá ser utilizada a identificação abaixo, conforme o idioma aplicável:
+
+- **MODEL** — para documentos em inglês.
+- **MODELO** — para documentos em português.
+
+<figure>
+    <img src="/img/informativo-tecnico/agosto-2026/img03.webp" alt="Imagem 03" />
+    <figcaption>Imagem 03</figcaption>
+</figure>
+
 <!-- <span class="status-valid">VÁLIDO</span> -->
 <!-- <span class="status-obsolete">OBSOLETO - dd/mm/yy</span> -->
