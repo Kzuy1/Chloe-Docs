@@ -79,5 +79,21 @@ Deverá ser utilizada a identificação abaixo, conforme o idioma aplicável:
     <figcaption>Imagem 03</figcaption>
 </figure>
 
+## 5 - Cota com Ajuste em Campo
+> 📅 31/08/26  • <span class="status-valid">VÁLIDO</span>
+
+<div class="bt-card">
+- Categoria: Detalhamento
+</div>
+
+Para os projetos Redecam e Satus, quando houver uma dimensão com **ajuste em campo (ADJUST ON SITE)**, deverá ser indicada uma **cota geral correspondente à dimensão total da peça**, incluindo o comprimento destinado ao ajuste.
+
+Por exemplo, para uma peça com **1200 mm + 100 mm de ajuste em campo**, a cota geral deverá ser indicada como **1300 mm**, mantendo os **100 mm** identificados separadamente, conforme Imagem 04.
+
+<figure>
+    <img src="/img/informativo-tecnico/agosto-2026/img04.webp" alt="Imagem 04" />
+    <figcaption>Imagem 04</figcaption>
+</figure>
+
 <!-- <span class="status-valid">VÁLIDO</span> -->
 <!-- <span class="status-obsolete">OBSOLETO - dd/mm/yy</span> -->
