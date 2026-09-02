@@ -5,6 +5,12 @@ sidebar_position: 6
 # Junho/2026
 
 ## 1 - Solda da Câmara Central - Rampa Inclinada
+<!-- INFO-META
+Quem: Abas Ahmad
+Oque: Email com assunto "C125019 central duct welding details6"
+Onde: Email
+Data: 24/06/2026
+-->
 > 📅 29/06/26  • <span class="status-valid">VÁLIDO</span>
 
 <div class="bt-card">

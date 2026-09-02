@@ -5,6 +5,12 @@ sidebar_position: 8
 # Agosto/2026
 
 ## 1 - Máximo de 1,00 m no sentido oposto da Grade
+<!-- INFO-META
+Quem: Roberto Galimberti
+Oque: Email com assunto "P126235 - REDECAM - C126002 - MASON CITY IA - USA - TRANSMITTAL - STS-P126235-GRD-00056"
+Onde: Email
+Data: 12/08/2026
+-->
 > 📅 14/08/26  • <span class="status-valid">VÁLIDO</span>
 
 <div class="bt-card">
@@ -20,6 +26,12 @@ Para o projeto Redecam e Satus, a grade deverá possuir no máximo 1,00 m no sen
 </figure>
 
 ## 2 - Nomenclatura para Grade
+<!-- INFO-META
+Quem: Vinicius Oliveira
+Oque: Messagem contendo "Tava vendo para fazer um informativo técnico sobre padrão nomear grades"
+Onde: Teams entre Vinicius Oliveira e Leonardo Souza
+Data: 05/08/2026
+-->
 > 📅 27/08/26  • <span class="status-valid">VÁLIDO</span>
 
 <div class="bt-card">
@@ -43,6 +55,9 @@ Exemplo:
 </div>
 
 ## 3 - Cálculo de Curvas para Guarda-Corpos e Corrimãos
+<!-- INFO-META
+Sem Informação clara: Apenas se recorda que começou isso no projeto de Bodoquena.
+-->
 > 📅 31/08/26  • <span class="status-valid">VÁLIDO</span>
 
 <div class="bt-card">
@@ -61,6 +76,9 @@ Para os projetos Redecam e Satus, os guarda-corpos e corrimãos que possuírem c
 </figure>
 
 ## 4 - Utilização de MOD e MODELO
+<!-- INFO-META
+Sem Informação clara: Foi feito isso para projeto de Itambé(P124202), que era confundido Modulo com Modelo por causa do Mod.
+-->
 > 📅 31/08/26  • <span class="status-valid">VÁLIDO</span>
 
 <div class="bt-card">
@@ -80,6 +98,9 @@ Deverá ser utilizada a identificação abaixo, conforme o idioma aplicável:
 </figure>
 
 ## 5 - Cota com Ajuste em Campo
+<!-- INFO-META
+Sem Informação clara: Foi visto isso na durante a produção de algum projeto da BRF.
+-->
 > 📅 31/08/26  • <span class="status-valid">VÁLIDO</span>
 
 <div class="bt-card">
