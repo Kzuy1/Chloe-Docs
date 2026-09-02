@@ -5,6 +5,12 @@ sidebar_position: 7
 # Julho/2026
 
 ## 1 - Isolamento Junta de Expansão
+<!-- INFO-META
+Quem: Stefano DAmore
+Oque: Email com assunto "Cladding over expansion joints - C125019"
+Onde: Email
+Data: 29/07/2026
+-->
 > 📅 29/07/26  • <span class="status-valid">VÁLIDO</span>
 
 <div class="bt-card">
